@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate beginner developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasbayram&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasbayram" /> </p>
-
 
 - 👀 I’m interested in coding
 
@@ -24,8 +22,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyasbayram&show_icons=true&locale=en&layout=compact" alt="ilyasbayram" /></p>
 
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyasbayram&show_icons=true&locale=en" alt="ilyasbayram" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasbayram&" alt="ilyasbayram" /></p>
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasbayram&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasbayram" /> </p>
